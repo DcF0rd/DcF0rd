@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zachary!
+# 👋 Hi, I'm Zach!
 ### Creative Visionary & Game Developer
 
 I'm passionate about **world-building, storytelling, and game development**, blending **complex narratives** with **strategic gameplay**. My current focus is **expanding Nexum into a multimedia franchise**, spanning books, animated series, and interactive experiences.
