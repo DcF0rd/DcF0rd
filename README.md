@@ -1,32 +1,47 @@
-# 👋 Hi, I'm Zach!
-### Creative Visionary & Game Developer
+# Hey, I'm Zach
 
-I'm passionate about **world-building, storytelling, and game development**, blending **complex narratives** with **strategic gameplay**. My current focus is **expanding Nexum into a multimedia franchise**, spanning books, animated series, and interactive experiences.
+**Student systems builder | Mythic strategist | DIY resilience advocate**
 
-## 🚀 What I'm Working On
-- **The Nexum Universe** – A nine-book saga with intricate race dynamics and layered storytelling.
-- **Game Development** – Designing engaging mechanics with Python and Minecraft scripting.
-- **Multimedia Expansion** – Planning films, sitcoms, and animation projects for immersive storytelling.
-- **Mentorship & Community Growth** – Creating opportunities for local talent in creative fields.
+I’m learning by building — crafting modular tools that empower families, creators, and communities to reclaim autonomy. Every project is a mythic fragment of a larger system: practical, pivot-ready, and built to endure.
 
-## 🌱 What I'm Learning
-- Advanced **Python programming** for automation and game mechanics.
-- **Speculative fiction** themes like cybernetics and societal transformation.
-- **Budgeting & logistics** for large-scale creative projects.
+---
 
-## 💡 Collaboration & Interests
-- **Storytelling & Game Mechanics** – Always open to brainstorming unique concepts.
-- **Creative Expansion** – Exploring new formats like novels and animated media.
-- **Tech & Optimization** – Hardware troubleshooting and efficiency strategies.
+## Mythic Modules
 
-## 📫 How to Reach Me
-- GitHub: [@DcF0rd](https://github.com/DcF0rd)
-- Twitter: [@DocFord42](https://X.com/Docf0rd42)
-- Email: [docf0rd](mailto:docf0rd@live.com.au)
+Each tool below is part of the **Titanix ecosystem** — modular, open-source, and designed for real-world autonomy.
 
-## ⚡ Fun Fact
-I once created **a faction system with encrypted transmissions**—because who doesn't love a little secrecy in their world-building?
+|   Tool Name        | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| **Prometheus: Titanix Edition** | Mythic OS concept — modular, resilient, and story-driven (like *Windows: 11*, but cooler) |
+| **Hearthstream**    | Plex alternative with front-end + back-end, served via clean HTML interface |
+| **ForgeConvert**    | Converts legacy media formats into modern, Plex-friendly files              |
+| **EchoNex**         | Linux troubleshooting chatbot — think Clippy, but mythic                    |
+| **VaultView**       | Standalone media player focused on file structure, with its own native window |
 
-<!---
-Zachary/Zachary is a ✨ creative powerhouse ✨ blending storytelling, coding, and strategic planning to bring immersive universes to life.
---->
+> *All tools are built with modular autonomy in mind — designed to run offline, adapt locally, and empower users.*
+
+---
+
+##  Skills I'm Building
+
+- **Modular Systems**: Mythic branding, clean pivots, and DIY resilience  
+- **Tech Support**: Jargon-free troubleshooting, device setup, and remote ops  
+- **Academic Workflow**: Git, Markdown, LaTeX, HTML — structured for clarity  
+- **Hardware Research**: Field-proven laptops for off-grid autonomy  
+- **Open-Source Tools**: Media streaming, file conversion, and mythic UX  
+
+---
+
+##  Mythic Philosophy
+
+> “Every tool is a torch. Every system is a story. Every pivot is a mythic moment.”
+
+I build with dignity, adaptability, and mythic clarity — empowering others to reclaim their tools, their workflows, and their futures.
+
+---
+
+## 📫 Connect
+
+- 💬 DM-friendly on GitHub
+
+---
