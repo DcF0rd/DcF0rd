@@ -47,8 +47,11 @@ The **Docf0rd** channel is where I document the journey. It's not about perfect 
 
 ---
 
-### **📫 Connect**
+### 📫 Connect
 
-* 💬 **DM-friendly on GitHub:** [@DcF0rd](https://github.com/DcF0rd)
-* 🎥 **YouTube (coming soon):** **Docf0rd**
-* 🧠 **My Projects:** [github.com/DcF0rd/nexum-checkpoint](https://github.com/DcF0rd/nexum-checkpoint) (and more!)
+- 💬 **GitHub (DM-friendly):** [@DcF0rd](https://github.com/DcF0rd)  
+- 🐦 **X (formerly Twitter):** [@DocFord42](https://x.com/DocFord42) — follow or message  
+- 🎥 **YouTube (coming soon):** **Docf0rd** — devlogs, builds, and mythic pivots  
+- 🧠 **Featured Project:** [NEXUM-CHECKPOINT](https://github.com/DcF0rd/nexum-checkpoint) *(more in the ecosystem)*
+
+---
