@@ -1,7 +1,3 @@
-Here’s a clean, skill-focused GitHub profile bio tailored to your goals — employable, practical, and modular:
-
----
-
 ### 👋 Hi, I'm Zachary Ford
 
 I'm a hands-on developer and systems thinker based in Australia, focused on building **modular, offline-first tools** with real-world impact. I specialize in:
